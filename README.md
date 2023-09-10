@@ -1,0 +1,122 @@
+# Youtube-Gender-Bias
+This is the dataset that contains the annoted videos returned from YouTube in response to educational
+queries in STEM and NON-STEM fields. The videos were annotated based on relevancy as well as perceived gender
+of the narrator.
+
+## Search Queries
+For the sake of reproducibility, the seach queries are:
+
+### STEM
+- Biology
+  - Biochemistry
+  - Evolution and biodiversity
+  - Marine and terrestrial ecology
+  - Plant science in biology
+  - Human physiology
+  - Habitat ecology in biology
+  - Environmental issues
+  - Molecular methodology for biologists
+  - Cell structure and function
+  - Principles of genetics
+- Chemistry 
+  - Solid state chemistry
+  - Shapes, properties and reactions of molecules
+  - Organic and biological chemistry
+  - Chemistry for the physical sciences
+  - Molecular pharmacology
+  - States of matter in chemistry
+  - Chemistry of materials
+  - Inorganic chemistry
+  - The global Earth system
+  - Mineralogy and petrology (typo exists in the original query)
+- Computer Science
+  - Organisational behaviour in practice
+  - Principles of programming
+  - Data management in computer science
+  - Mathematics for computer science
+  - Languages and computability
+  - Fundamentals of Computer Design
+  - Personal Computer technology
+  - Image processing
+  - Software systems development in computer science
+  - Human computer interaction
+- Mathematics
+  - Calculus
+  - Algebra
+  - Structured programming
+  - Algorithms and applications
+  - Coordinate and vector geometr
+  - Differential equations
+  - Probability
+  - Regression and anova
+  - Analytical and computational foundations in maths
+  - Problem solving methods in maths
+- Physics
+  - Laboratory physics
+  - Contemporary physics
+  - Mathematical techniques in physics
+  - Quantum physics
+  - Newtonian and relativistic mechanics
+  - Fabric of physics
+  - Plasma and fluids in physics 
+  - Special and general relativity
+  - Analysing the nanoscale and magnetism
+  - Stellar physics
+
+### NON-STEM
+- English Language and Literature
+  - Explorations in literature
+  - Chaucer: texts, contexts, conflicts
+  - Shakespeare in performance english language and literature
+  - Renaissance literature
+  - Modernist fiction 
+  - Creative writing: drama
+  - British romanticism
+  - Literary and cultural theory
+  - Stylistics in literature
+  - Aspects of modernism in literature
+- Politics
+  - Central themes in political thought
+  - Modern British politic
+  - Capital labour and power: Britain 1707-1939
+  - The holocaust in politics
+  - War in the industrial age politics
+  - Freedom, power and resistance: an introduction to political ideas
+  - International politics
+  - Making of the modern world in politics
+  - The political economy of developmen
+  - Comparing extremism in European liberal democracies
+- Psychology
+  - Cell biology in psychology
+  - Mind and behaviour
+  - Exploring effective learning in psychology
+  - Experimental methods and statistical
+  - Individual and social processes
+  - Development psychology
+  - Brain and cognition in psychology
+  - Social psychology
+  - Humans in biological perspective in psychology
+  - Evolution and behaviour in psychology
+- Public Relations
+  - Business strateg
+  - Internal corporate communication
+  - Social media or public relations
+  - Work and organisational change
+  - Behavioural science
+  - Management in context
+  - Work experience in public relations
+  - Business fundamentals
+  - Managing the brand
+  - Design in marketing
+- Sociology
+  - Observing in sociology
+  - Urban sociology 
+  - Understanding deviance and social problems in sociology
+  - Individual and society
+  - Applied ethics 
+  - Media and crime in sociology
+  - Nature and society in sociology
+  - Sexuality and social control in sociology
+  - Contemporary work and organisational life in sociology
+  - Mobilisation, social movements and protest in sociology
+
